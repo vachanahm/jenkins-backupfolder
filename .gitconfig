@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/ubuntu/jenkinsBackup
+	directory = /var/lib/jenkins
+	directory = /var/lib/jenkins
+	directory = /home/ubuntu/backup
